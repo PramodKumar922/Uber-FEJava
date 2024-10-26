@@ -1,2 +1,2 @@
 This is a contact page
-use 040-23423456 mobile number
+use 040-233456 mobile number
